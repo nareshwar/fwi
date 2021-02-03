@@ -1,3 +1,4 @@
 **/.alpackages
 **/.snapshots
-*.json
+**/.vscode
+app.json
